@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="favicon_io/site.webmanifest">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container box">
+      <img src="assets/light-mode.png" id="light-mode" alt="light-mode">
+        <div class="heading">
+          <h1 class="headingOne">Generate a</h1>
+          <h1 class="headingTwo">random password</h1>
+        </div>
+        <div class="hero">
+          <h5>Never use an insecure password again.</h5>
+        </div>
+        <div class="input-length">
+          <label for="passwordLength">Enter the length of password:</label>
+          <input name="password length" id="passwordLength">
+        </div>
+        <button id="getPassword">Generate Passwords</button>
+        <hr/>
+        <div class="generatedPasswords">
+          <div id="passwordOne"></div>
+          <div id="passwordTwo"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
