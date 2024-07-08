@@ -9,7 +9,8 @@ Website Link: https://passwordgeneratorhima.netlify.app/
 1) Input any desired password length.<br>
 2) Generate two random password with a single click.<br>
 3) Responsive design for optimal viewing on different devices.<br>
-4) Simple and user-friendly interface.
+4) Simple and user-friendly interface.<br>
+5) Dark and Light Mode
 
 ## Technologies Used
 1) HTML<br>
