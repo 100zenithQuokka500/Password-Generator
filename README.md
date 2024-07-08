@@ -15,3 +15,12 @@ Website Link: https://passwordgeneratorhima.netlify.app/
 1) HTML<br>
 2) CSS<br>
 3) JavaScript<br>
+
+## Preview
+
+![Screenshot (274)](https://github.com/H1mang1/Password-Generator/assets/123282807/72c15a0a-593c-4eb1-ad13-7c3f6f08cd52)
+
+![Screenshot (275)](https://github.com/H1mang1/Password-Generator/assets/123282807/5724513a-e17c-4b10-9dec-53f0c02664da)
+
+
+
