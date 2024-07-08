@@ -1,6 +1,6 @@
 # Password-Generator
 
-This project is a Password Generator web application that allows users to input a desired password length and generate two random password. The application is styled using responsive CSS to ensure a seamless experience across all devices.
+This project is a Password Generator web application that allows users to input a desired password length and generate two random password. The application is styled using responsive CSS to ensure a seamless experience across all devices.It also has dark and light mode.
 <br>
 <br>
 Website Link: https://passwordgeneratorhima.netlify.app/
